@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/JogoSGE/Content/crosshairs.png","D:/JogoSGE/Content/bin/DesktopGL/crosshairs.xnb","TextureProcessor","Texture2DContent",1892,10085,0,1203471
+"D:/JogoSGE/Content/galleryFont.spritefont","D:/JogoSGE/Content/bin/DesktopGL/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70687,0,0895396
+"D:/JogoSGE/Content/sky.png","D:/JogoSGE/Content/bin/DesktopGL/sky.xnb","TextureProcessor","Texture2DContent",1079607,9216085,0,2351228
+"D:/JogoSGE/Content/target.png","D:/JogoSGE/Content/bin/DesktopGL/target.xnb","TextureProcessor","Texture2DContent",3395,32485,0,0217772
