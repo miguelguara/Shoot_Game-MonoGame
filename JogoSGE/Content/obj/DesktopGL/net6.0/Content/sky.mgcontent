@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>D:/JogoSGE/Content/sky.png</SourceFile>
+  <SourceFile>D:/repositório/Shoot monogame/Shoot_Game-MonoGame/JogoSGE/Content/sky.png</SourceFile>
   <SourceTime>2023-10-20T20:52:00.6013514-03:00</SourceTime>
-  <DestFile>D:/JogoSGE/Content/bin/DesktopGL/Content/sky.xnb</DestFile>
-  <DestTime>2023-10-24T23:51:24.5456347-03:00</DestTime>
+  <DestFile>D:/repositório/Shoot monogame/Shoot_Game-MonoGame/JogoSGE/Content/bin/DesktopGL/Content/sky.xnb</DestFile>
+  <DestTime>2023-10-27T22:30:11.4311133-03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T08:44:56-03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

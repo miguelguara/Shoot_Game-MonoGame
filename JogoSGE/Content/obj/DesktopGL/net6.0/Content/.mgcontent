@@ -4,10 +4,10 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/JogoSGE/Content/crosshairs.png</File>
-    <File>D:/JogoSGE/Content/galleryFont.spritefont</File>
-    <File>D:/JogoSGE/Content/sky.png</File>
-    <File>D:/JogoSGE/Content/target.png</File>
+    <File>D:/repositório/Shoot monogame/Shoot_Game-MonoGame/JogoSGE/Content/crosshairs.png</File>
+    <File>D:/repositório/Shoot monogame/Shoot_Game-MonoGame/JogoSGE/Content/galleryFont.spritefont</File>
+    <File>D:/repositório/Shoot monogame/Shoot_Game-MonoGame/JogoSGE/Content/sky.png</File>
+    <File>D:/repositório/Shoot monogame/Shoot_Game-MonoGame/JogoSGE/Content/target.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

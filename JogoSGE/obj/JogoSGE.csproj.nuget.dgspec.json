@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\JogoSGE\\JogoSGE.csproj": {}
+    "D:\\repositório\\Shoot monogame\\Shoot_Game-MonoGame\\JogoSGE\\JogoSGE.csproj": {}
   },
   "projects": {
-    "D:\\JogoSGE\\JogoSGE.csproj": {
+    "D:\\repositório\\Shoot monogame\\Shoot_Game-MonoGame\\JogoSGE\\JogoSGE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JogoSGE\\JogoSGE.csproj",
+        "projectUniqueName": "D:\\repositório\\Shoot monogame\\Shoot_Game-MonoGame\\JogoSGE\\JogoSGE.csproj",
         "projectName": "JogoSGE",
-        "projectPath": "D:\\JogoSGE\\JogoSGE.csproj",
+        "projectPath": "D:\\repositório\\Shoot monogame\\Shoot_Game-MonoGame\\JogoSGE\\JogoSGE.csproj",
         "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-        "outputPath": "D:\\JogoSGE\\obj\\",
+        "outputPath": "D:\\repositório\\Shoot monogame\\Shoot_Game-MonoGame\\JogoSGE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
