@@ -20,13 +20,14 @@ namespace JogoSGE
         Vector2 Pos_Alvo = new Vector2(300, 300);
         const int raioAlvo = 45;
         MouseState mState;
+        Vector2 Mira_pos;
         bool SBotao = true; 
         int pontos = 0;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
-            IsMouseVisible = true;
+            IsMouseVisible = false;
         }
 
         protected override void Initialize()
@@ -52,6 +53,8 @@ namespace JogoSGE
                 Exit();
 
             mState = Mouse.GetState();
+
+            Mira_pos = Mouse.GetState().Position.ToVector2();
 
             if(mState.LeftButton == ButtonState.Pressed && SBotao == true)
             {
@@ -80,6 +83,7 @@ namespace JogoSGE
             _spriteBatch.Draw(BackgroundSprite,new Vector2(0f,0f),Color.White);
             _spriteBatch.DrawString(GameText, "Pontos: " + pontos, new Vector2(20f, 0f),Color.White);
             _spriteBatch.Draw(Alvo,new Vector2(Pos_Alvo.X - raioAlvo,Pos_Alvo.Y - raioAlvo),Color.White);
+            _spriteBatch.Draw(MiraSprite,new Vector2(Mira_pos.X - 18,Mira_pos.Y - 15),Color.White);
             _spriteBatch.End();
 
             base.Draw(gameTime);
