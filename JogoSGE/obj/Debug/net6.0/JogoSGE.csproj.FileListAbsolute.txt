@@ -56,3 +56,4 @@ D:\repositório\Shoot monogame\Shoot_Game-MonoGame\JogoSGE\obj\Debug\net6.0\refi
 D:\repositório\Shoot monogame\Shoot_Game-MonoGame\JogoSGE\obj\Debug\net6.0\JogoSGE.pdb
 D:\repositório\Shoot monogame\Shoot_Game-MonoGame\JogoSGE\obj\Debug\net6.0\JogoSGE.genruntimeconfig.cache
 D:\repositório\Shoot monogame\Shoot_Game-MonoGame\JogoSGE\obj\Debug\net6.0\ref\JogoSGE.dll
+D:\repositório\Shoot monogame\Shoot_Game-MonoGame\JogoSGE\obj\Debug\net6.0\JogoSGE.sourcelink.json
