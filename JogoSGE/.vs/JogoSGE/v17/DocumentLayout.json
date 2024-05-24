@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\reposit\u00F3rio\\Shoot monogame\\Shoot_Game-MonoGame\\JogoSGE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8BD976-C2E4-41D7-8916-9AF9BE2C6891}|JogoSGE.csproj|d:\\reposit\u00F3rio\\shoot monogame\\shoot_game-monogame\\jogosge\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8BD976-C2E4-41D7-8916-9AF9BE2C6891}|JogoSGE.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "D:\\reposit\u00F3rio\\Shoot monogame\\Shoot_Game-MonoGame\\JogoSGE\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "D:\\reposit\u00F3rio\\Shoot monogame\\Shoot_Game-MonoGame\\JogoSGE\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-27T11:22:01.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

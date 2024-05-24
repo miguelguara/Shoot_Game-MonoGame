@@ -50,10 +50,10 @@ D:\repositório\Shoot monogame\Shoot_Game-MonoGame\JogoSGE\obj\Debug\net6.0\Jogo
 D:\repositório\Shoot monogame\Shoot_Game-MonoGame\JogoSGE\obj\Debug\net6.0\JogoSGE.AssemblyInfoInputs.cache
 D:\repositório\Shoot monogame\Shoot_Game-MonoGame\JogoSGE\obj\Debug\net6.0\JogoSGE.AssemblyInfo.cs
 D:\repositório\Shoot monogame\Shoot_Game-MonoGame\JogoSGE\obj\Debug\net6.0\JogoSGE.csproj.CoreCompileInputs.cache
-D:\repositório\Shoot monogame\Shoot_Game-MonoGame\JogoSGE\obj\Debug\net6.0\JogoSGE.csproj.CopyComplete
 D:\repositório\Shoot monogame\Shoot_Game-MonoGame\JogoSGE\obj\Debug\net6.0\JogoSGE.dll
 D:\repositório\Shoot monogame\Shoot_Game-MonoGame\JogoSGE\obj\Debug\net6.0\refint\JogoSGE.dll
 D:\repositório\Shoot monogame\Shoot_Game-MonoGame\JogoSGE\obj\Debug\net6.0\JogoSGE.pdb
 D:\repositório\Shoot monogame\Shoot_Game-MonoGame\JogoSGE\obj\Debug\net6.0\JogoSGE.genruntimeconfig.cache
 D:\repositório\Shoot monogame\Shoot_Game-MonoGame\JogoSGE\obj\Debug\net6.0\ref\JogoSGE.dll
 D:\repositório\Shoot monogame\Shoot_Game-MonoGame\JogoSGE\obj\Debug\net6.0\JogoSGE.sourcelink.json
+D:\repositório\Shoot monogame\Shoot_Game-MonoGame\JogoSGE\obj\Debug\net6.0\JogoSGE.csproj.Up2Date
